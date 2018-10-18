@@ -10,6 +10,7 @@ dependencies:
     sdk: flutter
   flutter_webview_plugin:
   dhplugin:
+    version: ^0.1.1
     git:
       url: "git@github.com:shehabic/dhplugin.git"
 
